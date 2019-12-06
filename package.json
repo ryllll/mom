@@ -1,0 +1,15 @@
+{
+  "name": "mombot",
+  "version": "1.0.0",
+  "description": "go to sleep lynne",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ryll",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "node-schedule": "^1.3.2"
+  }
+}
