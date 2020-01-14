@@ -120,4 +120,4 @@ client.on("message", (msg) => {
 function randElement(arr) {
 	return arr[Math.floor(Math.random() * arr.length)];
 }
-client.login("NjUxNTk0ODIxOTYxNzc3MTgy.XecWLQ.3imESpIG-N6Az8ZKLI85ySqfRm8");
+client.login(require(".\\secret.json").discord);
